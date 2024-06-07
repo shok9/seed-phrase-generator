@@ -35,3 +35,8 @@ This program is provided for educational purposes only. Using this program to ac
 
 # Reporting Issues
 If you encounter any issues while using this script, please write about it and I will help you
+
+# Author support
+If this program was useful for you or you found a good balance and want to thank me, my crypto wallet addresses:
+BTC - bc1qejv7wcc99uzumpqnphtt8hc7vrm5pw68v0just
+TRON - TMvxcCcMgjGnDePf38VH5i7WEEHcQwMTeD
