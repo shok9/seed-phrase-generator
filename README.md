@@ -15,7 +15,8 @@ as a backup for the wallet.
 # About the program
 This program can generate seed phrases, as well as search for wallets containing BTC, ETH, LTC, DOGE coins.
 Compared to other generators written in python, this program is written in C++, which makes it many 
-times faster than those.
+times faster than those. The program also uses multiple threads to check multiple addresses simultaneously, 
+ensuring fast and efficient searches. Real-time balance detection
 
 
 ![Screenshot_132](https://github.com/kondo22/seed-phrase-generation/assets/171491627/b6923dd8-e595-4d27-864e-90fda0323c11)
@@ -39,4 +40,6 @@ If you encounter any issues while using this script, please write about it and I
 # Author support
 If this program was useful for you or you found a good balance and want to thank me, my crypto wallet addresses:
 BTC - bc1qejv7wcc99uzumpqnphtt8hc7vrm5pw68v0just \
-TRON - TMvxcCcMgjGnDePf38VH5i7WEEHcQwMTeD
+TRON - TMvxcCcMgjGnDePf38VH5i7WEEHcQwMTeD \
+ETH - 0xcA4929b98432F8A3922F299437B40B460D9105F5 \
+LTC - ltc1qf6vtxsfhudkq7jfylpfhfv9fsncya35de9fzgr 
