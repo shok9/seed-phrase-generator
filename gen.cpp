@@ -1,4 +1,4 @@
-#include "wordlist.h"
+#include "gen.h"
 
 std::string generateSeedPhrase(int length) {
     std::string seedPhrase;
